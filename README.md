@@ -1,2 +1,2 @@
 # MapMyIndiaChallenge
-![Image1](sample_polyline.jpg)
+![Image1](sample_marker.jpg)
